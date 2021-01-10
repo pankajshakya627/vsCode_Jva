@@ -48,7 +48,7 @@ class BinarySearchRec
 		}
 
 		if(nums[left]==target)
-			return left;
+			return left;                                                                                                                                                                                                                                                             
 		if(nums[right]==target)
 			return right;
 		return -1;	
