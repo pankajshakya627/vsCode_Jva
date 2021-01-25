@@ -13,7 +13,7 @@ public class HashSetInJava
         System.out.println(h);
         System.out.println(h.contains("General"));
 
-        // // Iterator to iterate each value of hashset
+        // Iterator to iterate each value of hashset
 
         Iterator<String> i = h.iterator();
         while(i.hasNext())
